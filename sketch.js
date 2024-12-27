@@ -3,7 +3,7 @@ let gameObj =
     Untouch: 
     [ 
         new ground(0, 350, 1024, 200),
-        new canyon(200, 350, 100, 500),
+        new canyon(180, 350, 140, 500),
 
     ],
     
